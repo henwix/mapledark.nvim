@@ -7,6 +7,11 @@ A colorful dark theme with medium brightness and low saturation, designed for co
 
 Inspired by the [VS Code Maple Theme](https://github.com/subframe7536/vscode-theme-maple).
 
+## 📸 Screenshots
+
+<!-- Add your screenshots here -->
+<img width="1912" height="1035" alt="image" src="https://github.com/user-attachments/assets/34b17bdb-e762-4695-8698-cb05b0aa17a8" />
+
 ## ✨ Features
 
 - 🎨 **Carefully crafted color palette** with medium brightness and low saturation
@@ -155,10 +160,6 @@ Maple Dark is optimized for performance with several caching mechanisms:
 - **Read-only Colors**: Color table is protected to prevent accidental modifications
 
 These optimizations ensure fast startup times even with extensive plugin support.
-
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
 
 ## 🤝 Contributing
 
