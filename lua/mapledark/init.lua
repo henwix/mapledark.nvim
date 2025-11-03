@@ -110,7 +110,7 @@ function M.setup(opts)
 
 	-- Status line
 	hl("StatusLine", { fg = c.fg_dark })
-	hl("StatusLineNC", { fg = c.bg_dark, bg = c.fg_dark })
+	hl("StatusLineNC", { fg = c.bg_dark, bg = c.bg_dark })
 	hl("VertSplit", { fg = c.border })
 	hl("WinSeparator", { fg = c.border })
 
